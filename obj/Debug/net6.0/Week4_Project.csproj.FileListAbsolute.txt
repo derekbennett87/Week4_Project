@@ -1,0 +1,15 @@
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.AssemblyInfoInputs.cache
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.AssemblyInfo.cs
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\Week4_Project\bin\Debug\net6.0\Week4_Project.exe
+C:\Users\derek\source\repos\Week4_Project\bin\Debug\net6.0\Week4_Project.deps.json
+C:\Users\derek\source\repos\Week4_Project\bin\Debug\net6.0\Week4_Project.runtimeconfig.json
+C:\Users\derek\source\repos\Week4_Project\bin\Debug\net6.0\Week4_Project.dll
+C:\Users\derek\source\repos\Week4_Project\bin\Debug\net6.0\ref\Week4_Project.dll
+C:\Users\derek\source\repos\Week4_Project\bin\Debug\net6.0\Week4_Project.pdb
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.dll
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\ref\Week4_Project.dll
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.pdb
+C:\Users\derek\source\repos\Week4_Project\obj\Debug\net6.0\Week4_Project.genruntimeconfig.cache
